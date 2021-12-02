@@ -1,5 +1,5 @@
 # Cognex3DScanner
-Cognex 3D Scanner for LEMS Lab
+Cognex 3D Scanner for LEMS Lab @ Brown Univerity
 
 This repository contains all the code for a complete cognex in-sight camera based linear 3D scanner. 
 
