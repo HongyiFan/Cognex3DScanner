@@ -13,7 +13,11 @@ File list:
 
 
 Acknowledgements:
+
 Gabriel Taubin, Ph.D.
+
 David Michael, Ph.D.
+
 Hongyi Fan
+
 Peter Walecki
