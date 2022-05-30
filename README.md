@@ -20,4 +20,4 @@ David Michael, Ph.D.
 
 Hongyi Fan
 
-Peter Walecki
+Peter Walecki, Ph.D.
